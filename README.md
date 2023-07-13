@@ -1,2 +1,2 @@
-# ZiaReinBypass
+# Ninjatech
 For messenger bot
